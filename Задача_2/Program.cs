@@ -14,4 +14,12 @@ if (a < b)
     Console.WriteLine("Максимальное число " + b);
     Console.WriteLine("Минимальное число " + a);
 }
-
+else if (b < a)
+{
+    Console.WriteLine("Максимальное число " + a);
+    Console.WriteLine("Минимальное число " + b);
+}
+else
+{
+    Console.WriteLine("Числа равны");
+}
