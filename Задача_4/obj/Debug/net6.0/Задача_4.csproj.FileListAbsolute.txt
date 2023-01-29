@@ -1,0 +1,15 @@
+C:\GeekBrains\ДЗ Семинар 1\ДЗ_Семинар_1\Задача_4\bin\Debug\net6.0\Задача_4.exe
+C:\GeekBrains\ДЗ Семинар 1\ДЗ_Семинар_1\Задача_4\bin\Debug\net6.0\Задача_4.deps.json
+C:\GeekBrains\ДЗ Семинар 1\ДЗ_Семинар_1\Задача_4\bin\Debug\net6.0\Задача_4.runtimeconfig.json
+C:\GeekBrains\ДЗ Семинар 1\ДЗ_Семинар_1\Задача_4\bin\Debug\net6.0\Задача_4.dll
+C:\GeekBrains\ДЗ Семинар 1\ДЗ_Семинар_1\Задача_4\bin\Debug\net6.0\Задача_4.pdb
+C:\GeekBrains\ДЗ Семинар 1\ДЗ_Семинар_1\Задача_4\obj\Debug\net6.0\Задача_4.csproj.AssemblyReference.cache
+C:\GeekBrains\ДЗ Семинар 1\ДЗ_Семинар_1\Задача_4\obj\Debug\net6.0\Задача_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\ДЗ Семинар 1\ДЗ_Семинар_1\Задача_4\obj\Debug\net6.0\Задача_4.AssemblyInfoInputs.cache
+C:\GeekBrains\ДЗ Семинар 1\ДЗ_Семинар_1\Задача_4\obj\Debug\net6.0\Задача_4.AssemblyInfo.cs
+C:\GeekBrains\ДЗ Семинар 1\ДЗ_Семинар_1\Задача_4\obj\Debug\net6.0\Задача_4.csproj.CoreCompileInputs.cache
+C:\GeekBrains\ДЗ Семинар 1\ДЗ_Семинар_1\Задача_4\obj\Debug\net6.0\Задача_4.dll
+C:\GeekBrains\ДЗ Семинар 1\ДЗ_Семинар_1\Задача_4\obj\Debug\net6.0\refint\Задача_4.dll
+C:\GeekBrains\ДЗ Семинар 1\ДЗ_Семинар_1\Задача_4\obj\Debug\net6.0\Задача_4.pdb
+C:\GeekBrains\ДЗ Семинар 1\ДЗ_Семинар_1\Задача_4\obj\Debug\net6.0\Задача_4.genruntimeconfig.cache
+C:\GeekBrains\ДЗ Семинар 1\ДЗ_Семинар_1\Задача_4\obj\Debug\net6.0\ref\Задача_4.dll
